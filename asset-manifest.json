@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/musab-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/musab-portfolio/static/js/main.aa26fc9f.chunk.js",
-    "main.js.map": "/musab-portfolio/static/js/main.aa26fc9f.chunk.js.map",
+    "main.css": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css",
+    "main.js": "/musab-portfolio/static/js/main.14133fa3.chunk.js",
+    "main.js.map": "/musab-portfolio/static/js/main.14133fa3.chunk.js.map",
     "runtime-main.js": "/musab-portfolio/static/js/runtime-main.fe0fdd9c.js",
     "runtime-main.js.map": "/musab-portfolio/static/js/runtime-main.fe0fdd9c.js.map",
     "static/css/2.94ba6a37.chunk.css": "/musab-portfolio/static/css/2.94ba6a37.chunk.css",
-    "static/js/2.cf1bd3fe.chunk.js": "/musab-portfolio/static/js/2.cf1bd3fe.chunk.js",
-    "static/js/2.cf1bd3fe.chunk.js.map": "/musab-portfolio/static/js/2.cf1bd3fe.chunk.js.map",
+    "static/js/2.02ceea05.chunk.js": "/musab-portfolio/static/js/2.02ceea05.chunk.js",
+    "static/js/2.02ceea05.chunk.js.map": "/musab-portfolio/static/js/2.02ceea05.chunk.js.map",
     "index.html": "/musab-portfolio/index.html",
-    "precache-manifest.5f0cb7ceccb7cec455e6d747cc6950bf.js": "/musab-portfolio/precache-manifest.5f0cb7ceccb7cec455e6d747cc6950bf.js",
+    "precache-manifest.e60b3ae5cb0e8ecc3cded6192383db91.js": "/musab-portfolio/precache-manifest.e60b3ae5cb0e8ecc3cded6192383db91.js",
     "service-worker.js": "/musab-portfolio/service-worker.js",
     "static/css/2.94ba6a37.chunk.css.map": "/musab-portfolio/static/css/2.94ba6a37.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/musab-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cf1bd3fe.chunk.js.LICENSE.txt": "/musab-portfolio/static/js/2.cf1bd3fe.chunk.js.LICENSE.txt",
+    "static/css/main.6c1e9e36.chunk.css.map": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css.map",
+    "static/js/2.02ceea05.chunk.js.LICENSE.txt": "/musab-portfolio/static/js/2.02ceea05.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/musab-portfolio/static/media/outline-icons.ef60a4f6.woff",
     "static/media/csslogo.png": "/musab-portfolio/static/media/csslogo.b9077e2e.png",
     "static/media/facerecog.png": "/musab-portfolio/static/media/facerecog.54ff1fce.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe0fdd9c.js",
     "static/css/2.94ba6a37.chunk.css",
-    "static/js/2.cf1bd3fe.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.aa26fc9f.chunk.js"
+    "static/js/2.02ceea05.chunk.js",
+    "static/css/main.6c1e9e36.chunk.css",
+    "static/js/main.14133fa3.chunk.js"
   ]
 }
