@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b4397baec0a9592c4e6011c11da31e",
+    "revision": "a6f1ae25e965c512819eab1311f36587",
     "url": "/musab-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/musab-portfolio/static/css/2.94ba6a37.chunk.css"
   },
   {
-    "revision": "1c7b7fd0e501a7262277",
+    "revision": "b18ebc2caeffb94b23d2",
     "url": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/musab-portfolio/static/js/2.02ceea05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c7b7fd0e501a7262277",
-    "url": "/musab-portfolio/static/js/main.14133fa3.chunk.js"
+    "revision": "b18ebc2caeffb94b23d2",
+    "url": "/musab-portfolio/static/js/main.108ce505.chunk.js"
   },
   {
     "revision": "4e2dd558a37ff99098ba",
