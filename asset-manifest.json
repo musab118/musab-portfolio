@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css",
-    "main.js": "/musab-portfolio/static/js/main.108ce505.chunk.js",
-    "main.js.map": "/musab-portfolio/static/js/main.108ce505.chunk.js.map",
+    "main.js": "/musab-portfolio/static/js/main.f0250804.chunk.js",
+    "main.js.map": "/musab-portfolio/static/js/main.f0250804.chunk.js.map",
     "runtime-main.js": "/musab-portfolio/static/js/runtime-main.fe0fdd9c.js",
     "runtime-main.js.map": "/musab-portfolio/static/js/runtime-main.fe0fdd9c.js.map",
     "static/css/2.94ba6a37.chunk.css": "/musab-portfolio/static/css/2.94ba6a37.chunk.css",
-    "static/js/2.02ceea05.chunk.js": "/musab-portfolio/static/js/2.02ceea05.chunk.js",
-    "static/js/2.02ceea05.chunk.js.map": "/musab-portfolio/static/js/2.02ceea05.chunk.js.map",
+    "static/js/2.080b438e.chunk.js": "/musab-portfolio/static/js/2.080b438e.chunk.js",
+    "static/js/2.080b438e.chunk.js.map": "/musab-portfolio/static/js/2.080b438e.chunk.js.map",
     "index.html": "/musab-portfolio/index.html",
-    "precache-manifest.594c7e5fddb5b34ee0d3fe86ffe8d780.js": "/musab-portfolio/precache-manifest.594c7e5fddb5b34ee0d3fe86ffe8d780.js",
+    "precache-manifest.4191b7ae78baac60bac2a52f84ae09b6.js": "/musab-portfolio/precache-manifest.4191b7ae78baac60bac2a52f84ae09b6.js",
     "service-worker.js": "/musab-portfolio/service-worker.js",
     "static/css/2.94ba6a37.chunk.css.map": "/musab-portfolio/static/css/2.94ba6a37.chunk.css.map",
     "static/css/main.6c1e9e36.chunk.css.map": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css.map",
-    "static/js/2.02ceea05.chunk.js.LICENSE.txt": "/musab-portfolio/static/js/2.02ceea05.chunk.js.LICENSE.txt",
+    "static/js/2.080b438e.chunk.js.LICENSE.txt": "/musab-portfolio/static/js/2.080b438e.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/musab-portfolio/static/media/outline-icons.ef60a4f6.woff",
     "static/media/csslogo.png": "/musab-portfolio/static/media/csslogo.b9077e2e.png",
     "static/media/facerecog.png": "/musab-portfolio/static/media/facerecog.54ff1fce.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe0fdd9c.js",
     "static/css/2.94ba6a37.chunk.css",
-    "static/js/2.02ceea05.chunk.js",
+    "static/js/2.080b438e.chunk.js",
     "static/css/main.6c1e9e36.chunk.css",
-    "static/js/main.108ce505.chunk.js"
+    "static/js/main.f0250804.chunk.js"
   ]
 }

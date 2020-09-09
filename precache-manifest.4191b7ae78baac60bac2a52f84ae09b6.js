@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6f1ae25e965c512819eab1311f36587",
+    "revision": "782f6a79cd1a7d1b2463403cf4b393ba",
     "url": "/musab-portfolio/index.html"
   },
   {
-    "revision": "a8540787a653274e2b4a",
+    "revision": "f7d38f1afd9e35ab4fd3",
     "url": "/musab-portfolio/static/css/2.94ba6a37.chunk.css"
   },
   {
-    "revision": "b18ebc2caeffb94b23d2",
+    "revision": "d908a2a52600e35785b0",
     "url": "/musab-portfolio/static/css/main.6c1e9e36.chunk.css"
   },
   {
-    "revision": "a8540787a653274e2b4a",
-    "url": "/musab-portfolio/static/js/2.02ceea05.chunk.js"
+    "revision": "f7d38f1afd9e35ab4fd3",
+    "url": "/musab-portfolio/static/js/2.080b438e.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/musab-portfolio/static/js/2.02ceea05.chunk.js.LICENSE.txt"
+    "url": "/musab-portfolio/static/js/2.080b438e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b18ebc2caeffb94b23d2",
-    "url": "/musab-portfolio/static/js/main.108ce505.chunk.js"
+    "revision": "d908a2a52600e35785b0",
+    "url": "/musab-portfolio/static/js/main.f0250804.chunk.js"
   },
   {
     "revision": "4e2dd558a37ff99098ba",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/musab-portfolio/precache-manifest.594c7e5fddb5b34ee0d3fe86ffe8d780.js"
+  "/musab-portfolio/precache-manifest.4191b7ae78baac60bac2a52f84ae09b6.js"
 );
 
 self.addEventListener('message', (event) => {
