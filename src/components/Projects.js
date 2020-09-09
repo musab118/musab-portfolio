@@ -3,10 +3,10 @@ import FaceRecognitionPhoto from '../facerecog.png';
 import FullStackPhoto from '../fullstack.png';
 import SmartFilePhoto from '../smartfile.png';
 
-const Projects = () => {
+const Projects = ({id}) => {
 
     return(
-        <div>
+    <div id ={id}>
  <div className="cover bg-left bg-center-l" style={{}}>  
  <div className="bg-black-80 pb5 pb6-m pb4-l">
 <section className="mw7 center avenir">

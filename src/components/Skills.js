@@ -9,9 +9,9 @@ import Vuelogo from "../vuelogo.png";
 import HTMLlogo from "../htmllogo.png";
 import CSSlogo from "../csslogo.png";
 
-const Skills = () => {
+const Skills = ({id}) => {
   return (
-    <div className="">
+    <div className="" id ={id}>
       <header className="sans-serif">
         <div className="cover bg-left bg-center-l" style={{}}>
           <div className="bg-moon-gray pb5 pb6-m pb4-l">

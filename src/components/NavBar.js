@@ -1,27 +1,74 @@
-import React from 'react';
-// import image from '../logo.png'
+import React, { Component } from 'react';
+
+import {Link, animateScroll as scroll} from 'react-scroll';
+import './Navbar.css'
 
 
 
-const NavBar = () => {
+class NavBar extends Component{
+    scrollToTop = () => {
+        scroll.scrollToTop();
+      };
 
+render(){
     return (
-        <div>
+        <div className =" sticky" >
           
-            <nav className="bg-moon-gray db dt-m w-100 border-box pa3 ">  
-            {/* <a className="db dtc-l v-mid mid-gray link dim w-100 w-225-l tc tl-l mb2 mb0-l" href="#" title="Home">
-                 <img src={image} className="dib w4 h4 br-10" alt="Site Name"/>
-                </a> */}
+            <nav className="bg-black db dt-m w-100 border-box pa3 ">  
+            
                 <div className="db dtc-m v-mid w-100  tc ">
-                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer"  title="Home">About Me</p>
-                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer" title="How it Works">Skills</p>
-                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer" title="Blog">Education</p>
-                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer"  title="Press">Projects</p>
-                    <p className="link dim grow dark-gray f6 f4-l dib pointer"  title="Contact">Contact Information</p>
+                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer"  title="Home">
+                    <Link
+                
+                to="section1"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={1500}
+              >
+                        About Me
+             </Link></p>
+
+                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer" title="How it Works">
+                <Link
+                activeClass="active"
+                to="section2"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={1000}
+              >
+                        Skills
+                        </Link>
+                        </p>
+                    
+                    <p className="link dim grow dark-gray f6 f4-l dib mr3 mr4-l pointer"  title="Press">
+                    <Link
+                activeClass="active"
+                to="section3"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={1000}
+              >
+                Projects
+              </Link> </p>
+                    <p className="link dim grow dark-gray f6 f4-l dib pointer"  title="Contact">
+                    <Link
+                activeClass="inactive"
+                to="section4"
+                spy={true}
+                smooth={true}
+                offset={-100}
+                duration={2000}
+              >
+                        Contact Information
+                        </Link> </p>
                 </div>
             </nav>
         </div>
     )
+}
 }
 
 export default NavBar;

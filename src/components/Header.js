@@ -1,8 +1,8 @@
 import React from "react";
 
-const Header = () => {
+const Header = ({id}) => {
   return (
-    <div>
+    <div id={id}>
       <header className="sans-serif">
         <div className="cover bg-left bg-center-l " style={{}}>
           <div className="bg-black-80 pb5 pb6-m pb6-l">

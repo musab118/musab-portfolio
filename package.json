@@ -2,7 +2,7 @@
   "name": "portfolio_musab_hamid",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://musab118.github.io",
+  "homepage": "https://musab118.github.io/musab-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -10,6 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "react-scroll": "^1.8.1",
     "react-tilt": "^0.1.4",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^1.2.1",
@@ -21,7 +22,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

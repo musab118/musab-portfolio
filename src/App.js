@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-// import NavBar from './components/NavBar';
+import NavBar from './components/NavBar';
 import 'tachyons';
 import Header from './components/Header';
 import Skills from './components/Skills';
@@ -26,11 +26,11 @@ class App extends Component{
     return(
 
       <div className ="App">
-      {/* <NavBar/> */}
-      <Header/>
-      <Skills/>
-      <Projects/>
-      <Contact/>
+      <NavBar />
+      <Header id ="section1"/>
+      <Skills id = "section2"/>
+      <Projects id = "section3"/>
+      <Contact id = "section4"/>
 
       </div>
     )
